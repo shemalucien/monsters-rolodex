@@ -15,7 +15,6 @@
 .card-container:hover {
   transform: scale(1.05);
 }
-
 @media screen and (max-width: 920px) {
   .card-container {
     display: flex;
